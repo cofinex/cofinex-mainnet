@@ -14,7 +14,7 @@ Blockchain related issues are tracked [in the github issues tab][Cofinex Mainnet
 
 ## Mainnet Users
 
-To install the Cofinex Mainnet binary, follow [these instructions](https://besu.hyperledger.org/HowTo/Get-Started/Install-Binaries/).    
+To install the Cofinex Mainnet binary, follow [these instructions](https://besu.hyperledger.org/en/stable/private-networks/).    
 
 
 ### Development
